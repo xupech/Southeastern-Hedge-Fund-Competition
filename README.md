@@ -1,5 +1,8 @@
-# Southeastern-Hedge-Fund-Competition\r
-Trading strategy benchmarking S&P 500 Index\r
-Modelled volatility using LSTM\r
-Predicted price with technical indicators and macro indices\r
+# Southeastern-Hedge-Fund-Competition
+Trading strategy benchmarking S&P 500 Index
+
+Modelled volatility using LSTM
+
+Predicted price with technical indicators and macro indices
+
 Built a long-short strategy based on price prediction while conditioned on volatility
